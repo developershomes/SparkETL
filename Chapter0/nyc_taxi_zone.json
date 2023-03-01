@@ -1,0 +1,1592 @@
+[
+  {
+    "LocationID": 1,
+    "Borough": "EWR",
+    "Zone": "Newark Airport",
+    "service_zone": "EWR"
+  },
+  {
+    "LocationID": 2,
+    "Borough": "Queens",
+    "Zone": "Jamaica Bay",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 3,
+    "Borough": "Bronx",
+    "Zone": "Allerton/Pelham Gardens",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 4,
+    "Borough": "Manhattan",
+    "Zone": "Alphabet City",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 5,
+    "Borough": "Staten Island",
+    "Zone": "Arden Heights",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 6,
+    "Borough": "Staten Island",
+    "Zone": "Arrochar/Fort Wadsworth",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 7,
+    "Borough": "Queens",
+    "Zone": "Astoria",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 8,
+    "Borough": "Queens",
+    "Zone": "Astoria Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 9,
+    "Borough": "Queens",
+    "Zone": "Auburndale",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 10,
+    "Borough": "Queens",
+    "Zone": "Baisley Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 11,
+    "Borough": "Brooklyn",
+    "Zone": "Bath Beach",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 12,
+    "Borough": "Manhattan",
+    "Zone": "Battery Park",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 13,
+    "Borough": "Manhattan",
+    "Zone": "Battery Park City",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 14,
+    "Borough": "Brooklyn",
+    "Zone": "Bay Ridge",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 15,
+    "Borough": "Queens",
+    "Zone": "Bay Terrace/Fort Totten",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 16,
+    "Borough": "Queens",
+    "Zone": "Bayside",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 17,
+    "Borough": "Brooklyn",
+    "Zone": "Bedford",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 18,
+    "Borough": "Bronx",
+    "Zone": "Bedford Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 19,
+    "Borough": "Queens",
+    "Zone": "Bellerose",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 20,
+    "Borough": "Bronx",
+    "Zone": "Belmont",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 21,
+    "Borough": "Brooklyn",
+    "Zone": "Bensonhurst East",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 22,
+    "Borough": "Brooklyn",
+    "Zone": "Bensonhurst West",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 23,
+    "Borough": "Staten Island",
+    "Zone": "Bloomfield/Emerson Hill",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 24,
+    "Borough": "Manhattan",
+    "Zone": "Bloomingdale",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 25,
+    "Borough": "Brooklyn",
+    "Zone": "Boerum Hill",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 26,
+    "Borough": "Brooklyn",
+    "Zone": "Borough Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 27,
+    "Borough": "Queens",
+    "Zone": "Breezy Point/Fort Tilden/Riis Beach",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 28,
+    "Borough": "Queens",
+    "Zone": "Briarwood/Jamaica Hills",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 29,
+    "Borough": "Brooklyn",
+    "Zone": "Brighton Beach",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 30,
+    "Borough": "Queens",
+    "Zone": "Broad Channel",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 31,
+    "Borough": "Bronx",
+    "Zone": "Bronx Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 32,
+    "Borough": "Bronx",
+    "Zone": "Bronxdale",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 33,
+    "Borough": "Brooklyn",
+    "Zone": "Brooklyn Heights",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 34,
+    "Borough": "Brooklyn",
+    "Zone": "Brooklyn Navy Yard",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 35,
+    "Borough": "Brooklyn",
+    "Zone": "Brownsville",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 36,
+    "Borough": "Brooklyn",
+    "Zone": "Bushwick North",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 37,
+    "Borough": "Brooklyn",
+    "Zone": "Bushwick South",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 38,
+    "Borough": "Queens",
+    "Zone": "Cambria Heights",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 39,
+    "Borough": "Brooklyn",
+    "Zone": "Canarsie",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 40,
+    "Borough": "Brooklyn",
+    "Zone": "Carroll Gardens",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 41,
+    "Borough": "Manhattan",
+    "Zone": "Central Harlem",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 42,
+    "Borough": "Manhattan",
+    "Zone": "Central Harlem North",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 43,
+    "Borough": "Manhattan",
+    "Zone": "Central Park",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 44,
+    "Borough": "Staten Island",
+    "Zone": "Charleston/Tottenville",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 45,
+    "Borough": "Manhattan",
+    "Zone": "Chinatown",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 46,
+    "Borough": "Bronx",
+    "Zone": "City Island",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 47,
+    "Borough": "Bronx",
+    "Zone": "Claremont/Bathgate",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 48,
+    "Borough": "Manhattan",
+    "Zone": "Clinton East",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 49,
+    "Borough": "Brooklyn",
+    "Zone": "Clinton Hill",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 50,
+    "Borough": "Manhattan",
+    "Zone": "Clinton West",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 51,
+    "Borough": "Bronx",
+    "Zone": "Co-Op City",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 52,
+    "Borough": "Brooklyn",
+    "Zone": "Cobble Hill",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 53,
+    "Borough": "Queens",
+    "Zone": "College Point",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 54,
+    "Borough": "Brooklyn",
+    "Zone": "Columbia Street",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 55,
+    "Borough": "Brooklyn",
+    "Zone": "Coney Island",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 56,
+    "Borough": "Queens",
+    "Zone": "Corona",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 57,
+    "Borough": "Queens",
+    "Zone": "Corona",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 58,
+    "Borough": "Bronx",
+    "Zone": "Country Club",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 59,
+    "Borough": "Bronx",
+    "Zone": "Crotona Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 60,
+    "Borough": "Bronx",
+    "Zone": "Crotona Park East",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 61,
+    "Borough": "Brooklyn",
+    "Zone": "Crown Heights North",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 62,
+    "Borough": "Brooklyn",
+    "Zone": "Crown Heights South",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 63,
+    "Borough": "Brooklyn",
+    "Zone": "Cypress Hills",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 64,
+    "Borough": "Queens",
+    "Zone": "Douglaston",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 65,
+    "Borough": "Brooklyn",
+    "Zone": "Downtown Brooklyn/MetroTech",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 66,
+    "Borough": "Brooklyn",
+    "Zone": "DUMBO/Vinegar Hill",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 67,
+    "Borough": "Brooklyn",
+    "Zone": "Dyker Heights",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 68,
+    "Borough": "Manhattan",
+    "Zone": "East Chelsea",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 69,
+    "Borough": "Bronx",
+    "Zone": "East Concourse/Concourse Village",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 70,
+    "Borough": "Queens",
+    "Zone": "East Elmhurst",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 71,
+    "Borough": "Brooklyn",
+    "Zone": "East Flatbush/Farragut",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 72,
+    "Borough": "Brooklyn",
+    "Zone": "East Flatbush/Remsen Village",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 73,
+    "Borough": "Queens",
+    "Zone": "East Flushing",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 74,
+    "Borough": "Manhattan",
+    "Zone": "East Harlem North",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 75,
+    "Borough": "Manhattan",
+    "Zone": "East Harlem South",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 76,
+    "Borough": "Brooklyn",
+    "Zone": "East New York",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 77,
+    "Borough": "Brooklyn",
+    "Zone": "East New York/Pennsylvania Avenue",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 78,
+    "Borough": "Bronx",
+    "Zone": "East Tremont",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 79,
+    "Borough": "Manhattan",
+    "Zone": "East Village",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 80,
+    "Borough": "Brooklyn",
+    "Zone": "East Williamsburg",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 81,
+    "Borough": "Bronx",
+    "Zone": "Eastchester",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 82,
+    "Borough": "Queens",
+    "Zone": "Elmhurst",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 83,
+    "Borough": "Queens",
+    "Zone": "Elmhurst/Maspeth",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 84,
+    "Borough": "Staten Island",
+    "Zone": "Eltingville/Annadale/Prince's Bay",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 85,
+    "Borough": "Brooklyn",
+    "Zone": "Erasmus",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 86,
+    "Borough": "Queens",
+    "Zone": "Far Rockaway",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 87,
+    "Borough": "Manhattan",
+    "Zone": "Financial District North",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 88,
+    "Borough": "Manhattan",
+    "Zone": "Financial District South",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 89,
+    "Borough": "Brooklyn",
+    "Zone": "Flatbush/Ditmas Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 90,
+    "Borough": "Manhattan",
+    "Zone": "Flatiron",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 91,
+    "Borough": "Brooklyn",
+    "Zone": "Flatlands",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 92,
+    "Borough": "Queens",
+    "Zone": "Flushing",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 93,
+    "Borough": "Queens",
+    "Zone": "Flushing Meadows-Corona Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 94,
+    "Borough": "Bronx",
+    "Zone": "Fordham South",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 95,
+    "Borough": "Queens",
+    "Zone": "Forest Hills",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 96,
+    "Borough": "Queens",
+    "Zone": "Forest Park/Highland Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 97,
+    "Borough": "Brooklyn",
+    "Zone": "Fort Greene",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 98,
+    "Borough": "Queens",
+    "Zone": "Fresh Meadows",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 99,
+    "Borough": "Staten Island",
+    "Zone": "Freshkills Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 100,
+    "Borough": "Manhattan",
+    "Zone": "Garment District",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 101,
+    "Borough": "Queens",
+    "Zone": "Glen Oaks",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 102,
+    "Borough": "Queens",
+    "Zone": "Glendale",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 103,
+    "Borough": "Manhattan",
+    "Zone": "Governor's Island/Ellis Island/Liberty Island",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 104,
+    "Borough": "Manhattan",
+    "Zone": "Governor's Island/Ellis Island/Liberty Island",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 105,
+    "Borough": "Manhattan",
+    "Zone": "Governor's Island/Ellis Island/Liberty Island",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 106,
+    "Borough": "Brooklyn",
+    "Zone": "Gowanus",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 107,
+    "Borough": "Manhattan",
+    "Zone": "Gramercy",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 108,
+    "Borough": "Brooklyn",
+    "Zone": "Gravesend",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 109,
+    "Borough": "Staten Island",
+    "Zone": "Great Kills",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 110,
+    "Borough": "Staten Island",
+    "Zone": "Great Kills Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 111,
+    "Borough": "Brooklyn",
+    "Zone": "Green-Wood Cemetery",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 112,
+    "Borough": "Brooklyn",
+    "Zone": "Greenpoint",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 113,
+    "Borough": "Manhattan",
+    "Zone": "Greenwich Village North",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 114,
+    "Borough": "Manhattan",
+    "Zone": "Greenwich Village South",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 115,
+    "Borough": "Staten Island",
+    "Zone": "Grymes Hill/Clifton",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 116,
+    "Borough": "Manhattan",
+    "Zone": "Hamilton Heights",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 117,
+    "Borough": "Queens",
+    "Zone": "Hammels/Arverne",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 118,
+    "Borough": "Staten Island",
+    "Zone": "Heartland Village/Todt Hill",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 119,
+    "Borough": "Bronx",
+    "Zone": "Highbridge",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 120,
+    "Borough": "Manhattan",
+    "Zone": "Highbridge Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 121,
+    "Borough": "Queens",
+    "Zone": "Hillcrest/Pomonok",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 122,
+    "Borough": "Queens",
+    "Zone": "Hollis",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 123,
+    "Borough": "Brooklyn",
+    "Zone": "Homecrest",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 124,
+    "Borough": "Queens",
+    "Zone": "Howard Beach",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 125,
+    "Borough": "Manhattan",
+    "Zone": "Hudson Sq",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 126,
+    "Borough": "Bronx",
+    "Zone": "Hunts Point",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 127,
+    "Borough": "Manhattan",
+    "Zone": "Inwood",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 128,
+    "Borough": "Manhattan",
+    "Zone": "Inwood Hill Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 129,
+    "Borough": "Queens",
+    "Zone": "Jackson Heights",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 130,
+    "Borough": "Queens",
+    "Zone": "Jamaica",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 131,
+    "Borough": "Queens",
+    "Zone": "Jamaica Estates",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 132,
+    "Borough": "Queens",
+    "Zone": "JFK Airport",
+    "service_zone": "Airports"
+  },
+  {
+    "LocationID": 133,
+    "Borough": "Brooklyn",
+    "Zone": "Kensington",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 134,
+    "Borough": "Queens",
+    "Zone": "Kew Gardens",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 135,
+    "Borough": "Queens",
+    "Zone": "Kew Gardens Hills",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 136,
+    "Borough": "Bronx",
+    "Zone": "Kingsbridge Heights",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 137,
+    "Borough": "Manhattan",
+    "Zone": "Kips Bay",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 138,
+    "Borough": "Queens",
+    "Zone": "LaGuardia Airport",
+    "service_zone": "Airports"
+  },
+  {
+    "LocationID": 139,
+    "Borough": "Queens",
+    "Zone": "Laurelton",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 140,
+    "Borough": "Manhattan",
+    "Zone": "Lenox Hill East",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 141,
+    "Borough": "Manhattan",
+    "Zone": "Lenox Hill West",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 142,
+    "Borough": "Manhattan",
+    "Zone": "Lincoln Square East",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 143,
+    "Borough": "Manhattan",
+    "Zone": "Lincoln Square West",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 144,
+    "Borough": "Manhattan",
+    "Zone": "Little Italy/NoLiTa",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 145,
+    "Borough": "Queens",
+    "Zone": "Long Island City/Hunters Point",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 146,
+    "Borough": "Queens",
+    "Zone": "Long Island City/Queens Plaza",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 147,
+    "Borough": "Bronx",
+    "Zone": "Longwood",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 148,
+    "Borough": "Manhattan",
+    "Zone": "Lower East Side",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 149,
+    "Borough": "Brooklyn",
+    "Zone": "Madison",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 150,
+    "Borough": "Brooklyn",
+    "Zone": "Manhattan Beach",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 151,
+    "Borough": "Manhattan",
+    "Zone": "Manhattan Valley",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 152,
+    "Borough": "Manhattan",
+    "Zone": "Manhattanville",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 153,
+    "Borough": "Manhattan",
+    "Zone": "Marble Hill",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 154,
+    "Borough": "Brooklyn",
+    "Zone": "Marine Park/Floyd Bennett Field",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 155,
+    "Borough": "Brooklyn",
+    "Zone": "Marine Park/Mill Basin",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 156,
+    "Borough": "Staten Island",
+    "Zone": "Mariners Harbor",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 157,
+    "Borough": "Queens",
+    "Zone": "Maspeth",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 158,
+    "Borough": "Manhattan",
+    "Zone": "Meatpacking/West Village West",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 159,
+    "Borough": "Bronx",
+    "Zone": "Melrose South",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 160,
+    "Borough": "Queens",
+    "Zone": "Middle Village",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 161,
+    "Borough": "Manhattan",
+    "Zone": "Midtown Center",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 162,
+    "Borough": "Manhattan",
+    "Zone": "Midtown East",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 163,
+    "Borough": "Manhattan",
+    "Zone": "Midtown North",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 164,
+    "Borough": "Manhattan",
+    "Zone": "Midtown South",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 165,
+    "Borough": "Brooklyn",
+    "Zone": "Midwood",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 166,
+    "Borough": "Manhattan",
+    "Zone": "Morningside Heights",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 167,
+    "Borough": "Bronx",
+    "Zone": "Morrisania/Melrose",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 168,
+    "Borough": "Bronx",
+    "Zone": "Mott Haven/Port Morris",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 169,
+    "Borough": "Bronx",
+    "Zone": "Mount Hope",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 170,
+    "Borough": "Manhattan",
+    "Zone": "Murray Hill",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 171,
+    "Borough": "Queens",
+    "Zone": "Murray Hill-Queens",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 172,
+    "Borough": "Staten Island",
+    "Zone": "New Dorp/Midland Beach",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 173,
+    "Borough": "Queens",
+    "Zone": "North Corona",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 174,
+    "Borough": "Bronx",
+    "Zone": "Norwood",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 175,
+    "Borough": "Queens",
+    "Zone": "Oakland Gardens",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 176,
+    "Borough": "Staten Island",
+    "Zone": "Oakwood",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 177,
+    "Borough": "Brooklyn",
+    "Zone": "Ocean Hill",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 178,
+    "Borough": "Brooklyn",
+    "Zone": "Ocean Parkway South",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 179,
+    "Borough": "Queens",
+    "Zone": "Old Astoria",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 180,
+    "Borough": "Queens",
+    "Zone": "Ozone Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 181,
+    "Borough": "Brooklyn",
+    "Zone": "Park Slope",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 182,
+    "Borough": "Bronx",
+    "Zone": "Parkchester",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 183,
+    "Borough": "Bronx",
+    "Zone": "Pelham Bay",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 184,
+    "Borough": "Bronx",
+    "Zone": "Pelham Bay Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 185,
+    "Borough": "Bronx",
+    "Zone": "Pelham Parkway",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 186,
+    "Borough": "Manhattan",
+    "Zone": "Penn Station/Madison Sq West",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 187,
+    "Borough": "Staten Island",
+    "Zone": "Port Richmond",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 188,
+    "Borough": "Brooklyn",
+    "Zone": "Prospect-Lefferts Gardens",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 189,
+    "Borough": "Brooklyn",
+    "Zone": "Prospect Heights",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 190,
+    "Borough": "Brooklyn",
+    "Zone": "Prospect Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 191,
+    "Borough": "Queens",
+    "Zone": "Queens Village",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 192,
+    "Borough": "Queens",
+    "Zone": "Queensboro Hill",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 193,
+    "Borough": "Queens",
+    "Zone": "Queensbridge/Ravenswood",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 194,
+    "Borough": "Manhattan",
+    "Zone": "Randalls Island",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 195,
+    "Borough": "Brooklyn",
+    "Zone": "Red Hook",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 196,
+    "Borough": "Queens",
+    "Zone": "Rego Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 197,
+    "Borough": "Queens",
+    "Zone": "Richmond Hill",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 198,
+    "Borough": "Queens",
+    "Zone": "Ridgewood",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 199,
+    "Borough": "Bronx",
+    "Zone": "Rikers Island",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 200,
+    "Borough": "Bronx",
+    "Zone": "Riverdale/North Riverdale/Fieldston",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 201,
+    "Borough": "Queens",
+    "Zone": "Rockaway Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 202,
+    "Borough": "Manhattan",
+    "Zone": "Roosevelt Island",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 203,
+    "Borough": "Queens",
+    "Zone": "Rosedale",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 204,
+    "Borough": "Staten Island",
+    "Zone": "Rossville/Woodrow",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 205,
+    "Borough": "Queens",
+    "Zone": "Saint Albans",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 206,
+    "Borough": "Staten Island",
+    "Zone": "Saint George/New Brighton",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 207,
+    "Borough": "Queens",
+    "Zone": "Saint Michaels Cemetery/Woodside",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 208,
+    "Borough": "Bronx",
+    "Zone": "Schuylerville/Edgewater Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 209,
+    "Borough": "Manhattan",
+    "Zone": "Seaport",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 210,
+    "Borough": "Brooklyn",
+    "Zone": "Sheepshead Bay",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 211,
+    "Borough": "Manhattan",
+    "Zone": "SoHo",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 212,
+    "Borough": "Bronx",
+    "Zone": "Soundview/Bruckner",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 213,
+    "Borough": "Bronx",
+    "Zone": "Soundview/Castle Hill",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 214,
+    "Borough": "Staten Island",
+    "Zone": "South Beach/Dongan Hills",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 215,
+    "Borough": "Queens",
+    "Zone": "South Jamaica",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 216,
+    "Borough": "Queens",
+    "Zone": "South Ozone Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 217,
+    "Borough": "Brooklyn",
+    "Zone": "South Williamsburg",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 218,
+    "Borough": "Queens",
+    "Zone": "Springfield Gardens North",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 219,
+    "Borough": "Queens",
+    "Zone": "Springfield Gardens South",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 220,
+    "Borough": "Bronx",
+    "Zone": "Spuyten Duyvil/Kingsbridge",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 221,
+    "Borough": "Staten Island",
+    "Zone": "Stapleton",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 222,
+    "Borough": "Brooklyn",
+    "Zone": "Starrett City",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 223,
+    "Borough": "Queens",
+    "Zone": "Steinway",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 224,
+    "Borough": "Manhattan",
+    "Zone": "Stuy Town/Peter Cooper Village",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 225,
+    "Borough": "Brooklyn",
+    "Zone": "Stuyvesant Heights",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 226,
+    "Borough": "Queens",
+    "Zone": "Sunnyside",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 227,
+    "Borough": "Brooklyn",
+    "Zone": "Sunset Park East",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 228,
+    "Borough": "Brooklyn",
+    "Zone": "Sunset Park West",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 229,
+    "Borough": "Manhattan",
+    "Zone": "Sutton Place/Turtle Bay North",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 230,
+    "Borough": "Manhattan",
+    "Zone": "Times Sq/Theatre District",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 231,
+    "Borough": "Manhattan",
+    "Zone": "TriBeCa/Civic Center",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 232,
+    "Borough": "Manhattan",
+    "Zone": "Two Bridges/Seward Park",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 233,
+    "Borough": "Manhattan",
+    "Zone": "UN/Turtle Bay South",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 234,
+    "Borough": "Manhattan",
+    "Zone": "Union Sq",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 235,
+    "Borough": "Bronx",
+    "Zone": "University Heights/Morris Heights",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 236,
+    "Borough": "Manhattan",
+    "Zone": "Upper East Side North",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 237,
+    "Borough": "Manhattan",
+    "Zone": "Upper East Side South",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 238,
+    "Borough": "Manhattan",
+    "Zone": "Upper West Side North",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 239,
+    "Borough": "Manhattan",
+    "Zone": "Upper West Side South",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 240,
+    "Borough": "Bronx",
+    "Zone": "Van Cortlandt Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 241,
+    "Borough": "Bronx",
+    "Zone": "Van Cortlandt Village",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 242,
+    "Borough": "Bronx",
+    "Zone": "Van Nest/Morris Park",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 243,
+    "Borough": "Manhattan",
+    "Zone": "Washington Heights North",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 244,
+    "Borough": "Manhattan",
+    "Zone": "Washington Heights South",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 245,
+    "Borough": "Staten Island",
+    "Zone": "West Brighton",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 246,
+    "Borough": "Manhattan",
+    "Zone": "West Chelsea/Hudson Yards",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 247,
+    "Borough": "Bronx",
+    "Zone": "West Concourse",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 248,
+    "Borough": "Bronx",
+    "Zone": "West Farms/Bronx River",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 249,
+    "Borough": "Manhattan",
+    "Zone": "West Village",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 250,
+    "Borough": "Bronx",
+    "Zone": "Westchester Village/Unionport",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 251,
+    "Borough": "Staten Island",
+    "Zone": "Westerleigh",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 252,
+    "Borough": "Queens",
+    "Zone": "Whitestone",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 253,
+    "Borough": "Queens",
+    "Zone": "Willets Point",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 254,
+    "Borough": "Bronx",
+    "Zone": "Williamsbridge/Olinville",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 255,
+    "Borough": "Brooklyn",
+    "Zone": "Williamsburg (North Side)",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 256,
+    "Borough": "Brooklyn",
+    "Zone": "Williamsburg (South Side)",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 257,
+    "Borough": "Brooklyn",
+    "Zone": "Windsor Terrace",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 258,
+    "Borough": "Queens",
+    "Zone": "Woodhaven",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 259,
+    "Borough": "Bronx",
+    "Zone": "Woodlawn/Wakefield",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 260,
+    "Borough": "Queens",
+    "Zone": "Woodside",
+    "service_zone": "Boro Zone"
+  },
+  {
+    "LocationID": 261,
+    "Borough": "Manhattan",
+    "Zone": "World Trade Center",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 262,
+    "Borough": "Manhattan",
+    "Zone": "Yorkville East",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 263,
+    "Borough": "Manhattan",
+    "Zone": "Yorkville West",
+    "service_zone": "Yellow Zone"
+  },
+  {
+    "LocationID": 264,
+    "Borough": "Unknown",
+    "Zone": "NV",
+    "service_zone": "N/A"
+  },
+  {
+    "LocationID": 265,
+    "Borough": "Unknown",
+    "Zone": "NA",
+    "service_zone": "N/A"
+  }
+]
