@@ -17,7 +17,7 @@ aws s3 ls --no-sign-request s3://ookla-open-data/parquet/performance/type=fixed/
 aws s3 cp --no-sign-request s3://ookla-open-data/parquet/performance/type=fixed/year=2019/quarter=1/2019-01-01_performance_fixed_tiles.parquet sample.parquet
 
 Solution Notebook:<br/>
-[Spark Notebook](chapter3.ipynb)
+[Spark Notebook](chapter4.ipynb)
 
 Blog with Explaination: 
 
