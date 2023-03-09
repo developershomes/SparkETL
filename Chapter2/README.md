@@ -8,11 +8,15 @@ Task to do
 4. Transform data
 5. write data into NonSQL Server
 
-Spark Libraries
+Spark Libraries <br/>
+https://mvnrepository.com/artifact/org.mongodb.spark/mongo-spark-connector <br/>
+'org.mongodb.spark:mongo-spark-connector_2.12:3.0.1' <br/>
 
 Solution Notebook:<br/>
 [Spark Notebook](chapter2.ipynb)
 
-Blog with Explaination: 
+Blog with Explaination: <br/>
+https://developershome.blog/2023/03/07/spark-etl-chapter-2-with-nosql-database-mongodb-cassandra/ <br/>
 
-YouTube video with Explanation:
+YouTube video with Explanation: <br/>
+https://www.youtube.com/watch?v=vPZV_GF0klE&list=PLYqhYQOVe-qNwwWJdhiLM_In2l9kDwkAa&index=5

@@ -8,11 +8,15 @@ Task to do
 4. Transform data
 5. write data into SQL Server
 
-Spark Libraries
+Spark Libraries<br/>
+https://mvnrepository.com/artifact/mysql/mysql-connector-java
 
 Solution Notebook:<br/>
 [Spark Notebook](chapter1.ipynb)
 
-Blog with Explaination: 
+Blog with Explaination: <br/>
+https://developershome.blog/2023/03/06/spark-etl-with-sql-databases-mysql-postgresql/ <br/>
+https://medium.com/@fylfotbeta/spark-etl-chapter-1-with-sql-databases-mysql-postgresql-a0a589f7f9ff
 
-YouTube video with Explanation:
+YouTube video with Explanation:<br/>
+https://www.youtube.com/watch?v=PHahcWd1AqM&list=PLYqhYQOVe-qNwwWJdhiLM_In2l9kDwkAa&index=3
