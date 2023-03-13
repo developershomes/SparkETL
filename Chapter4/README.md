@@ -18,7 +18,9 @@ aws s3 cp --no-sign-request s3://ookla-open-data/parquet/performance/type=fixed/
 
 Solution Notebook:<br/>
 [Spark Notebook](chapter4.ipynb)
+[Spark Notebook Dataset1](chapter4-dataset1.ipynb)
 
 Blog with Explaination: 
+https://developershome.blog/2023/03/12/spark-etl-chapter-4-with-cloud-data-lakes-aws-s3-bucket/ <br/>
 
 YouTube video with Explanation:
