@@ -13,6 +13,7 @@ https://api.publicapis.org/entries
 Solution Notebook:<br/>
 [Spark Notebook](chapter6.ipynb)
 
-Blog with Explaination: 
+Blog with Explaination: <br/>
+https://developershome.blog/2023/03/18/spark-etl-chapter-6-with-apis/
 
 YouTube video with Explanation:
