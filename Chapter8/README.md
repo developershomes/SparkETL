@@ -14,7 +14,7 @@ Solution Notebook:<br/>
 [Spark Notebook](chapter8.ipynb)
 
 Blog with Explaination: <br/>
-https://developershome.blog/2023/03/18/spark-etl-chapter-6-with-apis/
+https://developershome.blog/2023/03/21/spark-etl-chapter-8-with-lakehouse-apache-hudi/
 
 YouTube video with Explanation: <br/>
 https://www.youtube.com/watch?v=eL1xIjranhg
