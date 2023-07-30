@@ -19,7 +19,7 @@ Please find list ETL Pipelines
 9. Chapter9 -> [Spark ETL with Lakehouse (Apache Iceberg)](Chapter9/README.md)
 10. Chapter10 -> [Spark ETL with Lakehouse (Delta Lake vs Apache Iceberg vs Apache HUDI)](Chapter10/README.md)
 11. Chapter11 -> [Spark ETL with Lakehouse (Delta table Optimization)](Chapter11/README.md)
-12. Chapter12 -> [Spark ETL with Lakehouse (Apache Kafka)](Chapter11/README.md)
+12. Chapter12 -> [Spark ETL with Apache Kafka](Chapter12/README.md)
 13. Chapter13 -> [Spark ETL with GCP (Big Query)](Chapter13/README.md)
 
 
