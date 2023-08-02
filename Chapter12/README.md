@@ -11,7 +11,8 @@ Task to do
 7. Write streaming messages to the database (MySQL or PostgreSQL or MongoDB)
 
 Solution Notebook:<br/>
-[Spark Notebook](chapter12.ipynb)
+[Spark Notebook For Streaming messages on Console](chapter12.ipynb)
+[Spark Notebook For Streaming messages in CSV files](chapter12_1.ipynb)
 
 Blog with Explaination: <br/>
 https://developershome.blog/2023/03/21/spark-etl-chapter-9-with-lakehouse-apache-iceberg/
