@@ -13,6 +13,7 @@ Task to do
 Solution Notebook:<br/>
 [Spark Notebook For Streaming messages on Console](chapter12.ipynb)
 [Spark Notebook For Streaming messages in CSV files](chapter12_1.ipynb)
+[Spark Notebook For Streaming messages in SQL Server](chapter12_2.ipynb)
 
 Blog with Explaination: <br/>
 https://developershome.blog/2023/03/21/spark-etl-chapter-9-with-lakehouse-apache-iceberg/
